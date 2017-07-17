@@ -84,7 +84,7 @@ Tech:
       - infrared laser and high round fire rate (last line of defence)      
   - run everything off 12v DC
     
-Jolly Coordinator
+Jolly Coordinator:
   - go out and gather supplies safely and detering robbers and canibals
   - items needed specified by Agriculture and Tech
   - safety provided by Defence
