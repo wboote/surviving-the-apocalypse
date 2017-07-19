@@ -57,6 +57,9 @@ Defence:
   - plan where to deploy UDPs
     - would contine to build and deploy as society crumbles
   - inner to outer line of defence strategy
+  - force  
+    - non lethal force
+    - force
 
 Agriculture:
   - must be able to grow food inside in a clandestine way to begin with to avoid looters
@@ -102,5 +105,5 @@ Things that will become scarce:
  - medical supplies
  
 WB_TODO:
-  - how to aquire firearms
+  - how to aquire firearms --> 3D print them
   
