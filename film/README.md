@@ -1,5 +1,4 @@
-# Random Scene Ideas
-  - 
+*"A short story of a man who prepares for disaster but finds something much much worse"*
 
 # Linear Plot
   - Intro
@@ -25,3 +24,7 @@ $ ./init
     - vision: walks quickly outside towards Shaz's house.
     
   WB_TODO: on the way, Shaz's webcam is shown, Waz walks into frame
+
+
+# Random Scene Ideas
+  - 
