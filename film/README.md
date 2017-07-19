@@ -8,9 +8,9 @@
     - sound:  one sided conversation about some disaster
     - sound:  TV turning on and a news reporter taking about a virilant outbreak of rabies-like people
     - sound:  more conversation about the TV
-      Waz>    "Should we enable the system?"
-      Shaz>   <unaudible />
-      Waz>    "ok, ok; I'm gunna turn it on"
+      - Waz>    "Should we enable the system?"
+      - Shaz>   <unaudible />
+      - Waz>    "ok, ok; I'm gunna turn it on"
     - vision: debian boot screen
 ```bash
 $ cd surviving-the-apocalypse
