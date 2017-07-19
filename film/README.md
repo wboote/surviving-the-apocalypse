@@ -1,4 +1,4 @@
-*"A short story of a man who prepares for disaster but finds something much much worse"*
+*"A short story of a man who is prepared for disaster but finds something much much worse"*
 
 # Linear Plot
   - Intro
