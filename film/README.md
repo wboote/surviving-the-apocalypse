@@ -16,6 +16,8 @@
 $ cd surviving-the-apocalypse
 $ ./init
 ```
+#
+  -
     - vision: back of a dark cupboard
     - vision: outside door opens and arm reaches in, webcam is on a hard hat that Waz puts on his head
     - vision: clothes quickly getting packed, into spare room - grabs survival kit
