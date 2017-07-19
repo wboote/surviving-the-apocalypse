@@ -1,5 +1,5 @@
 # surviving-the-apocalypse
-A scaleable approach to staying alive
+A scalable approach to staying alive
 
 "the plan is to have a plan" -WB
 
